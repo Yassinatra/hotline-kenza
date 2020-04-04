@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hotline-kenza/static/css/main.390d25af.chunk.css",
+    "main.js": "/hotline-kenza/static/js/main.d69fcf47.chunk.js",
+    "main.js.map": "/hotline-kenza/static/js/main.d69fcf47.chunk.js.map",
+    "runtime-main.js": "/hotline-kenza/static/js/runtime-main.a6a42f72.js",
+    "runtime-main.js.map": "/hotline-kenza/static/js/runtime-main.a6a42f72.js.map",
+    "static/js/2.3bef3601.chunk.js": "/hotline-kenza/static/js/2.3bef3601.chunk.js",
+    "static/js/2.3bef3601.chunk.js.map": "/hotline-kenza/static/js/2.3bef3601.chunk.js.map",
+    "index.html": "/hotline-kenza/index.html",
+    "precache-manifest.da039e85b00ef734699b341503ec3bde.js": "/hotline-kenza/precache-manifest.da039e85b00ef734699b341503ec3bde.js",
+    "service-worker.js": "/hotline-kenza/service-worker.js",
+    "static/css/main.390d25af.chunk.css.map": "/hotline-kenza/static/css/main.390d25af.chunk.css.map",
+    "static/js/2.3bef3601.chunk.js.LICENSE.txt": "/hotline-kenza/static/js/2.3bef3601.chunk.js.LICENSE.txt",
+    "static/media/followMyLead.jpg": "/hotline-kenza/static/media/followMyLead.9f082d53.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6a42f72.js",
+    "static/js/2.3bef3601.chunk.js",
+    "static/css/main.390d25af.chunk.css",
+    "static/js/main.d69fcf47.chunk.js"
+  ]
+}
